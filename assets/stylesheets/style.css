@@ -49,3 +49,16 @@
     color: #00bcd4;
 }
 
+/* The visit site buttons */
+.custom-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.custom-button:hover {
+    color: #00bcd4;
+}
